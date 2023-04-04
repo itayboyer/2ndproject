@@ -1,0 +1,23 @@
+hr {
+  margin-top: 50px;
+}
+#dog {
+  width: 1505px;
+  height: 200px;
+  margin-top: 2000px;
+}
+h3 {
+  text-align: center;
+}
+#two {
+  margin-top: 1000px;
+}
+img {
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+div {
+  margin-left: 590px;
+}
